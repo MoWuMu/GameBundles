@@ -1,0 +1,428 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2024-09-06-1319",
+    "AssetList": [
+        {
+            "Address": "HotUpdate.dll",
+            "AssetPath": "Assets/HuiGame/Bundles/HotUpdateCodes/HotUpdate.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/HuiGame/Bundles/HotUpdateCodes/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/HuiGame/Bundles/HotUpdateCodes/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/HuiGame/Bundles/HotUpdateCodes/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "GameStart",
+            "AssetPath": "Assets/HuiGame/Bundles/Prefabs/GameStart.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "Map_0001",
+            "AssetPath": "Assets/HuiGame/Bundles/Prefabs/Maps/Map_0001.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "genship_cloud",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/genship_cloud.shader",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "genship_skybox_v2",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/genship_skybox_v2.shader",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "genship_genship_cloud",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/genship_genship_cloud.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "genship_genship_cloud_1",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/genship_genship_cloud_1.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "genship_skybox_anim_1_v3",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/genship_skybox_anim_1_v3.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "GenshipSkyParams",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/GenshipSkyParams.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "NoiseGray",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/NoiseGray.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "StarColorLut",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/StarColorLut.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "StarMapGray",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/StarMapGray.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "timeline 2",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/timeline 2.playable",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "cloud",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/mesh/cloud.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "cloud1",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/mesh/cloud1.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "sky_sphere",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/mesh/sky_sphere.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "IrradianceMap",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/texture/IrradianceMap.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "MaskMapRGBA",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/texture/MaskMapRGBA.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "MaskMapRGBA_2",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/texture/MaskMapRGBA_2.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "NoiseMapRGB",
+            "AssetPath": "Assets/HuiGame/Bundles/Sky/texture/NoiseMapRGB.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "SourceHanSansCN-Medium SDF",
+            "AssetPath": "Assets/HuiGame/Bundles/Fonts/SourceHanSansCN-Medium SDF.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "SourceHanSansCN-Medium",
+            "AssetPath": "Assets/HuiGame/Bundles/Fonts/SourceHanSansCN-Medium.ttf",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_huigame_bundles_hotupdatecodes.bundle",
+            "UnityCRC": 589257064,
+            "FileHash": "ddef6e8a9865a8486c6f82ccc9d739e2",
+            "FileCRC": "6d4ec0c0",
+            "FileSize": 1022438,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_huigame_bundles_prefabs_gamestart.bundle",
+            "UnityCRC": 4154594502,
+            "FileHash": "73dde5a97b9b6be1386343a08d87ee60",
+            "FileCRC": "26628288",
+            "FileSize": 2316,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_huigame_bundles_prefabs_maps_map_0001.bundle",
+            "UnityCRC": 2218704515,
+            "FileHash": "02cba6ef4a34da96f338e47666255d06",
+            "FileCRC": "244c6afb",
+            "FileSize": 164154,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                13,
+                10,
+                8,
+                12,
+                15,
+                14,
+                3
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 1598802163,
+            "FileHash": "aeb806f819907184ea14e619fd714b97",
+            "FileCRC": "a68e396a",
+            "FileSize": 288357,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                12
+            ]
+        },
+        {
+            "BundleName": "assets_huigame_bundles_sky.bundle",
+            "UnityCRC": 1822674533,
+            "FileHash": "8d699b2f4884141d3b19dbeae548a076",
+            "FileCRC": "7dd6e6ad",
+            "FileSize": 85739,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                5,
+                6,
+                12,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "assets_huigame_bundles_sky_mesh.bundle",
+            "UnityCRC": 3361323179,
+            "FileHash": "16065789d9c2a04ed9313b46f978b05a",
+            "FileCRC": "d191eceb",
+            "FileSize": 47859,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                12,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "assets_huigame_bundles_sky_texture.bundle",
+            "UnityCRC": 424363674,
+            "FileHash": "8446be421b73d4d5b8742cfca35ec2bf",
+            "FileCRC": "d37d1d20",
+            "FileSize": 1930265,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_huigame_bundles_fonts.bundle",
+            "UnityCRC": 2770136045,
+            "FileHash": "79a1c6f104432da4c75398db8b117c3a",
+            "FileCRC": "c345ab61",
+            "FileSize": 5950538,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                12,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_thirdpartyplugins_isometric_pack_3d_props_models_materials.bundle",
+            "UnityCRC": 2891532319,
+            "FileHash": "eb39e7a729ffe7be653c7d62d16a309a",
+            "FileCRC": "4a79e4ec",
+            "FileSize": 6437,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                12,
+                15,
+                14,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_thirdpartyplugins_isometric_pack_3d_props.bundle",
+            "UnityCRC": 3142386393,
+            "FileHash": "05453f04d8556ffacaf1b68cfefcc4be",
+            "FileCRC": "81dc46d2",
+            "FileSize": 40108,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                13,
+                10,
+                8,
+                12,
+                15,
+                14,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_thirdpartyplugins_isometric_pack_3d_props_models.bundle",
+            "UnityCRC": 776269294,
+            "FileHash": "1877748e1e0234f93a34231d39e7da9a",
+            "FileCRC": "28273a1b",
+            "FileSize": 650255,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                8,
+                12,
+                15,
+                14,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_thirdpartyplugins_isometric_pack_3d_tiles_groups.bundle",
+            "UnityCRC": 913595759,
+            "FileHash": "8a2ea6553a6036940d389cac99debe34",
+            "FileCRC": "7a02c462",
+            "FileSize": 27281,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                10,
+                8,
+                12,
+                15,
+                14,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_thirdpartyplugins_isometric_pack_3d_props_textures.bundle",
+            "UnityCRC": 2400704488,
+            "FileHash": "25060eb33587a6ff3d00349984b12dbc",
+            "FileCRC": "70372893",
+            "FileSize": 20295577,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_thirdpartyplugins_isometric_pack_3d_particles_textures.bundle",
+            "UnityCRC": 1185157665,
+            "FileHash": "819a2e8b55f1d0d7d8a2ebfdce4a7592",
+            "FileCRC": "f7d7eeaa",
+            "FileSize": 525009,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_thirdpartyplugins_isometric_pack_3d_shaders_materials.bundle",
+            "UnityCRC": 115736244,
+            "FileHash": "d77211deed3f066d645721f6403f87e8",
+            "FileCRC": "585cbb6d",
+            "FileSize": 3200,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                12,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_thirdpartyplugins_isometric_pack_3d_shaders.bundle",
+            "UnityCRC": 1012234117,
+            "FileHash": "ac46856dfdbb63f7788dc7b844245fa2",
+            "FileCRC": "2467c90b",
+            "FileSize": 18258,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                12,
+                14,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+            "UnityCRC": 1476707921,
+            "FileHash": "d488f4032563a11487afa1b18491b607",
+            "FileCRC": "30308948",
+            "FileSize": 3023,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                12,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_textmeshpro_editor_resources_gizmos.bundle",
+            "UnityCRC": 886203353,
+            "FileHash": "e57d0d6959f2b6d1cfd9c470db2653a2",
+            "FileCRC": "c2ed0d10",
+            "FileSize": 1217,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}
